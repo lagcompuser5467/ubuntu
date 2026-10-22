@@ -7,6 +7,9 @@
 
 Выполняется установка дистрибутива Ubuntu 24.04, который будет использоваться в качестве рабочей операционной системы Linux.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 180318" src="https://github.com/user-attachments/assets/182653b9-318e-4dfb-908a-50a85d72f7f9" />
+3. Создание пользователя Linux
+
+При первом запуске Ubuntu создаётся пользователь Linux. Для него задаются имя пользователя и пароль, необходимые для работы в системе.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181345" src="https://github.com/user-attachments/assets/ee07fdd3-63d3-4782-917f-4376b2ef2de7" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181450" src="https://github.com/user-attachments/assets/ad919d96-0292-4646-b196-63fb3034d5b1" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181831" src="https://github.com/user-attachments/assets/db590eb2-a789-4a9e-960d-4b2c714b32da" />
