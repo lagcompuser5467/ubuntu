@@ -19,6 +19,9 @@
 
 Устанавливаются инструменты разработки, включая GCC, G++, Make и GDB, необходимые для компиляции, сборки и отладки программ.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181831" src="https://github.com/user-attachments/assets/db590eb2-a789-4a9e-960d-4b2c714b32da" />
+6. Проверка компилятора
+
+После установки проверяется работоспособность компилятора GCC и других инструментов с помощью команд вывода их версий.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 182106" src="https://github.com/user-attachments/assets/d0cfaa58-cb2e-4ad5-a861-29257645be5e" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 182214" src="https://github.com/user-attachments/assets/5151e2eb-355c-44be-82bc-4f53de97c40f" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 182243" src="https://github.com/user-attachments/assets/521debf5-63be-41e0-b4cf-ffdafb9a127f" />
