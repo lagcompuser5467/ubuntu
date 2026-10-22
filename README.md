@@ -11,6 +11,9 @@
 
 При первом запуске Ubuntu создаётся пользователь Linux. Для него задаются имя пользователя и пароль, необходимые для работы в системе.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181345" src="https://github.com/user-attachments/assets/ee07fdd3-63d3-4782-917f-4376b2ef2de7" />
+4. Проверка версии Ubuntu
+
+С помощью системных команд проверяется установленная версия Ubuntu и выводится информация об операционной системе.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181450" src="https://github.com/user-attachments/assets/ad919d96-0292-4646-b196-63fb3034d5b1" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181831" src="https://github.com/user-attachments/assets/db590eb2-a789-4a9e-960d-4b2c714b32da" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 182106" src="https://github.com/user-attachments/assets/d0cfaa58-cb2e-4ad5-a861-29257645be5e" />
