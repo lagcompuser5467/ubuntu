@@ -1,4 +1,5 @@
 1. Установка WSL
+
 На данном этапе выполняется установка подсистемы Windows для Linux (WSL), которая позволяет запускать Linux в операционной системе Windows.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 175644" src="https://github.com/user-attachments/assets/9d122254-0374-4a76-b306-cf15d8c2eb04" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 175915" src="https://github.com/user-attachments/assets/c2837926-4e18-46f0-b01d-d8b2c7892f80" />
