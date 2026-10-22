@@ -3,6 +3,9 @@
 На данном этапе выполняется установка подсистемы Windows для Linux (WSL), которая позволяет запускать Linux в операционной системе Windows.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 175644" src="https://github.com/user-attachments/assets/9d122254-0374-4a76-b306-cf15d8c2eb04" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 175915" src="https://github.com/user-attachments/assets/c2837926-4e18-46f0-b01d-d8b2c7892f80" />
+2. Установка Ubuntu
+
+Выполняется установка дистрибутива Ubuntu 24.04, который будет использоваться в качестве рабочей операционной системы Linux.
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 180318" src="https://github.com/user-attachments/assets/182653b9-318e-4dfb-908a-50a85d72f7f9" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181345" src="https://github.com/user-attachments/assets/ee07fdd3-63d3-4782-917f-4376b2ef2de7" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-10-22 181450" src="https://github.com/user-attachments/assets/ad919d96-0292-4646-b196-63fb3034d5b1" />
